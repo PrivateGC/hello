@@ -20,5 +20,14 @@ Page({
   },
   hand1() {
     console.log("111")
+  },
+  onPullDownRefresh(obj){
+    console.log(obj)
+  },
+  onPullDownRefresh(){
+    console.log("下拉刷新")
+  },
+  onLoad(){
+    console.log("first")
   }
 })

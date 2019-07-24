@@ -1,7 +1,8 @@
 {
   "pages": [
-    "pages/sort/sort",
-    "pages/first"
+        "pages/first",
+    "pages/sort/sort"
+
   ],
   "sitemapLocation": "sitemap48.json",
   "window": {

@@ -9,6 +9,9 @@ Page({
   },
   handGetUser(event){
     console.log(event)
+  },
+  onPullDownRefresh(obj){
+    console.log(obj)
   }
 
 }),App({
@@ -17,7 +20,7 @@ Page({
    * 当小程序初始化完成时，会触发 onLaunch（全局只触发一次）
    */
   onLaunch: function () {
-    
+    console.log("sort:onLaunch")
   },
 
   /**

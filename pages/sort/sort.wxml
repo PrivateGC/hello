@@ -6,4 +6,4 @@
 handGetUser（event）:自定义获取用户信息的方法，event是一个固定对象，里面是用户的信息
 -->
 <button size="mini" open-type="getUserInfo" bindgetuserinfo="handGetUser">授权</button>
-<canvas style="width: 300px; height: 200px;" canvas-id="firstCanvas"></canvas>
+
