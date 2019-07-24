@@ -1,0 +1,8 @@
+<!--pages/first.wxml-->
+<text class="t1">hello</text>
+<text>{{name}}</text>
+<view>{{sutdents[0].name}}</view>
+<view>haha</view>
+<view>{{counts}}</view>
+<button size="mini" bindtap="CountsNum">+</button>
+

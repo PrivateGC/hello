@@ -1,0 +1,7 @@
+/* pages/first.wxss */
+.t1{
+
+  font-size: 30px;
+  color: red
+  
+}

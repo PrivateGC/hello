@@ -1,0 +1,36 @@
+{
+  "pages": [
+    "pages/sort/sort",
+    "pages/first"
+  ],
+  "sitemapLocation": "sitemap48.json",
+  "window": {
+    "navigationBarBackgroundColor": "#ff5777",
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "小程序",
+    "backgroundColor": "#ff5777",
+    "backgroundTextStyle": "dark",
+    "enablePullDownRefresh": true
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/first",
+        "text": "text",
+        "iconPath":"pages/tool/th_Respring1.png",
+        "selectedIconPath":"pages/tool/th_Respring-2.png",
+        "selectedColor": "#ff5777"
+      },
+      {
+        "pagePath": "pages/sort/sort",
+        "text": "text",
+        "iconPath": "pages/tool/th_Phone-1.png",
+        "selectedIconPath": "pages/tool/th_Phone-1.png",
+        "selectedColor": "ff5777"
+      }
+    ]
+   
+    
+    
+  }
+}
